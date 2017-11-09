@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\FengWei\Documents\Visual Studio 2015\Projects\64bit\VisualizeOBBTree\VisualizeOBBTree.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\FengWei\Documents\Visual Studio 2015\Projects\64bit\VisualizeOBBTree\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B2BF462E-3BC1-314D-9DBD-413CECC71C03}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
